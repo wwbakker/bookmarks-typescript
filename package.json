@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/react": "^16.7.20",
     "@types/react-dom": "^16.0.11",
-    "npm": "^6.6.0",
+    "npm": "^6.13.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "webpack": "^4.28.4"
